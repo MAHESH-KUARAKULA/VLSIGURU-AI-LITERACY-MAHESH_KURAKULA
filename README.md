@@ -1,6 +1,6 @@
 # VLSIGuru AI Literacy Layer - Mahesh Kurakula
 
-Track: DV (Design Verification
+Track: DV (Design Verification)
 
 Purpose: My 16-week AI Literacy Layer portfolio and engineering journal.
 

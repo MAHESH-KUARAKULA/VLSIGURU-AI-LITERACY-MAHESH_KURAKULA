@@ -30,3 +30,8 @@
 ### What I understood
 ### What still confuses me
 ### One thing I will verify differently next time
+
+
+## AI Usage Declaration
+AI tools used: Claude
+Used for: explanation and checking my understanding
